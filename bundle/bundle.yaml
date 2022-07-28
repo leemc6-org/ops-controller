@@ -1,5 +1,5 @@
 apiVersion: "1"
-version: "4"
+version: "5"
 id: "leemc6-org-ops-controller"
 description: "CloudBees CI configuration bundle for the leemc6-org ops-controller Controller"
 parent: "base"
